@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 1100px;
+    margin: auto;
+}
+
+.heading {
+    background-color: #DEDEDE;
+    padding: 20px;
+    margin: auto;   
+    margin-top: 10px;
+    width: 300px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.greetings {
+    background-color: #DEDEDE;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    text-align: left;
+    border-radius: 5px;
+}
+
+.message-box {
+    background-color: #DEDEDE;
+    padding: 20px;
+    margin: 40px 10px;
+    text-align: left;
+    border-radius: 5px;
+}
+
